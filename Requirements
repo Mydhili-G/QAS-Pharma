@@ -1,0 +1,6 @@
+openai
+pydantic
+apscheduler
+python-dotenv
+beautifulsoup4
+requests
